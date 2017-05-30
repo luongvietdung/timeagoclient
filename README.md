@@ -17,6 +17,10 @@ And then execute:
 Or install it yourself as:
 
     $ gem install time_ago_client
+    
+    
+Insert this line to application.js:
+    //= require timeago
 
 ## Usage
 
